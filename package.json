@@ -1,0 +1,19 @@
+{
+  "name": "theftCamera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "accel-mma84": "^0.2.4",
+    "nodemailer": "^3.1.7",
+    "rfid-pn532": "^0.1.9",
+    "tessel": "^0.3.25",
+    "tessel-av": "github:omribernstein/tessel-av"
+  }
+}
